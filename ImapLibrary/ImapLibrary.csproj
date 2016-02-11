@@ -96,6 +96,7 @@
     <Compile Include="AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="AssemblyLocator.cs" />
     <Compile Include="Imap.cs">
       <SubType>Code</SubType>
     </Compile>

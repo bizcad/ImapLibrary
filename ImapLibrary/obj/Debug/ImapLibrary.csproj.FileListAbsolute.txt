@@ -3,3 +3,8 @@ C:\Users\rjoshi\Projects\ImapLibrary\ImapLibrary\bin\Debug\ImapLibrary.pdb
 C:\Users\rjoshi\Projects\ImapLibrary\ImapLibrary\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\rjoshi\Projects\ImapLibrary\ImapLibrary\obj\Debug\ImapLibrary.dll
 C:\Users\rjoshi\Projects\ImapLibrary\ImapLibrary\obj\Debug\ImapLibrary.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ImapLibrary\ImapLibrary\bin\Debug\ImapLibrary.dll
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ImapLibrary\ImapLibrary\bin\Debug\ImapLibrary.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ImapLibrary\ImapLibrary\obj\Debug\ImapLibrary.dll
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ImapLibrary\ImapLibrary\obj\Debug\ImapLibrary.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ImapLibrary\ImapLibrary\obj\Debug\ImapLibrary.csprojResolveAssemblyReference.cache
