@@ -150,7 +150,7 @@ namespace Joshi.Utils.Imap
         }
 
         /// <summary>
-        /// Logout the user: It logout the user and disconnect the connetion from IMAP server.
+        /// Logout the user: It logout the user and disconnect the connetion from IMAP server. 
         /// </summary>
         public void LogOut()
         {
